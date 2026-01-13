@@ -33,7 +33,8 @@ High
 **I want to** set a booking to repeat on multiple days
 **So that** I save time scheduling regular meetings
 ### Acceptance Criteria:
-- Given I am on the booking screen, When I try to make recurring bookings and one of the days selected has a booking at that time, Then return and error message in red of the specific date and time that the conflict is taking place and give options to continue with the other days or change the times altogether.
+- Given I am on the booking screen, When I try to make recurring bookings and one of the days selected has a booking at that time, Then return and error message in red of the specific date and time that the conflict is taking place.
+- Given I am on the booking screen, when tap a recurring meeting switch, Then an option to select the days that the recurring meetings should occur must appear.
 - Given I am on the booking screen, When I try to make recurring bookings into days that the office is not open, Then return an error message in red that the days selected lies on days that the office is closed and give options to select other days when the office is open.
 ### Story Points:
 5
@@ -57,6 +58,7 @@ Medium
 ### Acceptance Criteria:
 - Given I am on the booking screen, When I select the filter button for x amount of people, Then the rooms shown should be ordered in ascending order or descending order.
 - Given I am viewing the rooms, When update the capacity value, Then the list of the rooms updates without the need to refresh the page
+- Given I am viewing the rooms, When I filter for an amount what we dont have rooms for, Then no rooms should be shown.
 ### Story Points:
 3
 ### Priority:
@@ -78,7 +80,7 @@ Low
 **I want to** cancel my existing bookings
 **So that** the room becomes available for others to use.
 ### Acceptance Criteria:
-- Given I am on the cancellation screen, When I press the cancel button, Then the booking with the details that are tied with that specific booking is completely removed from the schedule thus freeing that time slot to be booked again without conflict.
+- Given I select a booking I made, When I press the cancel button, Then the booking with the details that are tied with that specific booking is completely removed from the schedule thus freeing that time slot to be booked again without conflict.
 ### Story Points:
 3
 ### Priority:
@@ -117,7 +119,8 @@ Medium
 **I want to** view a list of all active bookings
 **So that** I can monitor overall room utiliztion and activity.
 ### Acceptance Criteria:
-- Given I am logged in as Admin, When I navigate to the dashboard, Then I should see see the total number of bookings for each day
+- Given I am logged in as Admin, When I navigate to the dashboard, Then I should have options to view booked rooms and history
+- Given I select to view booked rooms, When I navigate to the booked rooms, Then I should see a list of the rooms booked and be able to filter by day, week or month.
 ### Story Points:
 5
 ### Priority:
@@ -178,7 +181,7 @@ High
 **I want to** cancel a user's booking manually
 **So that** I can free up space for urgent executive needs or emergencies.
 ### Acceptance Criteria:
-- Given I am logged in as Admin, When I access the dashboard, Then I should see a section named "conflics" which I can navigate to in order to view all the different conflicts that have risen.
+- Given I am logged in as Admin, When I access the dashboard, Then I should see a section named "override" whereby I can cancel a booked meeting to assign an emergency meeting or a VIP meeting.
 - Given the system is runnung normally, When a user attempts to double book a certain time-frame, Then the system should detect the conflict and prevent the booking.
 ### Story Points:
 3
@@ -213,3 +216,4 @@ Medium
 ### Design Notes:
 
 - Have a button to navigate to the reports section
+
