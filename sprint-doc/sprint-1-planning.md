@@ -1,12 +1,12 @@
 # Sprint 1 Planning Session
 
-Date: 13/01/2026
+Date: 13/01/2026  
 Sprint Goal: Enable core booking functionality for Employees, Receptionists, and Facility Managers
 
 ## Attendees
-- Product Owner: 
-- Scrum Master: 
-- Development Team: 
+- Product Owner: Andile
+- Scrum Master: Romio
+- Development Team: Zanke
 
 ## Velocity Target 
 20 Story Points
@@ -20,8 +20,8 @@ Sprint Goal: Enable core booking functionality for Employees, Receptionists, and
 | Story #8| Visitor booking assistance (Receptionist) | 5 |
 
 ## Dependencies 
-API limitations
-Hosting Issues 
+- API limitations
+- Hosting Issues 
 
 ## Risks 
 | Risk | Probability | Impact | Mitigation | 
