@@ -24,10 +24,11 @@ Sprint Goal: Enable core booking functionality for Employees, Receptionists, and
 - Hosting Issues 
 
 ## Risks 
-| Risk | Probability | Impact | Mitigation | 
+| Risk | Probability | Impact | Mitigation |
+|-----:|-------------|--------|------------|
 | API limitations | Medium | High | If there are constraints with the API, we will use mock data while looking for an API with less constraints|
 | Hosting Issues | Low | High | If we run into hosting problems, we will host on another platform |
 
 ## Standup Cadence 
-Time: 10:15 AM
+Time: 10:15 AM  
 Format: Yesterday / Today / Blockers
