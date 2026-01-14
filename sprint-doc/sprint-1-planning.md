@@ -28,5 +28,5 @@ Hosting Issues
 | Hosting Issues | Low | High | If we run into hosting problems, we will host on another platform |
 
 ## Standup Cadence 
-Time: 10:00 AM
-Format: Yesterday / Today / Blockers 
+Time: 10:15 AM
+Format: Yesterday / Today / Blockers
