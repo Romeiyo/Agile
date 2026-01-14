@@ -13,6 +13,7 @@ Sprint Goal: Enable core booking functionality for Employees, Receptionists, and
 
 ## Selected User Stories 
 | Story # | Title | Story Points | 
+|--------:|-------|--------------|
 | Story #1| Basic room booking (Employee) | 5 |
 | Story #6| Admin dashboard viewing (Admin) | 5 |
 | Story #7| Room maintenance scheduling (Facilities Manager) | 5 |
