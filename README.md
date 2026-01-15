@@ -32,10 +32,10 @@ These are the steps you'll follow to install this project and edit it using comm
 ## Usage section
 ### Watch the following video for more information
 
-<a href="https://www.youtube.com/watch?v=SWDhGSZNF9M&t=161s" target="_blank">Learn about Scrum</a>
-<a href="https://www.youtube.com/watch?v=7oOBz85XZE0&t=10s" target="_blank">Learn about Sprint Planning</a>
-<a href="https://youtu.be/K38s_ihqPO0" target="_blank">How to manage Scrum Process in Asana</a>
-<a href="https://asana.com/?noredirect=true" target="_blank">How to manage Scrum Process in Asana</a>
+<a href="https://www.youtube.com/watch?v=SWDhGSZNF9M&t=161s" target="_blank">Learn about Scrum</a>  
+<a href="https://www.youtube.com/watch?v=7oOBz85XZE0&t=10s" target="_blank">Learn about Sprint Planning</a>  
+<a href="https://youtu.be/K38s_ihqPO0" target="_blank">How to manage Scrum Process in Asana</a>  
+<a href="https://asana.com/?noredirect=true" target="_blank">Sign Up to Asana on this</a>
 
 ## Key Features
 The system is built around two main Epics: **Core Booking Foundation** and **Administrative Control**.
