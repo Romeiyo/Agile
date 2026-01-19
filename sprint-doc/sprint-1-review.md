@@ -17,5 +17,5 @@ Partially Met
 
 ## Sprint Metrics 
 Planned points: 19  
-Completed points: 6
+Completed points: 6  
 Actual velocity: 6
