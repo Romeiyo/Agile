@@ -5,7 +5,7 @@ Partially Met
 
 ## Completed Work
 | Story # | Outcome | Acceptance Criteria Met |
-|--------:|-------------------------|
+|--------:|---------|-------------------------|
 | Story #1 | User can make booking <br> When booking is made, that slot is unavailable to book again <br> Error handling stops the user from making an invalid booking | Yes |
 | Story #4 | Employee is able to cancel a booking that was made | Yes |
 
