@@ -4,18 +4,18 @@
 Partially Met
 
 ## Completed Work
-| Story # | Acceptance Criteria Met |
+| Story # | Outcome | Acceptance Criteria Met |
 |--------:|-------------------------|
-| Story #1 | User can make booking <br> When booking is made, that slot is unavailable to book again <br> Error handling stops the user from making an invalid booking|
-| Story #2 | Receptionist can book on behalf of the guest <br> Specified details are saved for record keeping <br> Only Receptionist can book on behalf of guest |
+| Story #1 | User can make booking <br> When booking is made, that slot is unavailable to book again <br> Error handling stops the user from making an invalid booking | Yes |
+| Story #4 | Employee is able to cancel a booking that was made | Yes |
 
 ## Incomplete Work 
-| Story # | Reason | Next Action |
+| Story # | Reason | Decision (Carry / Split / Drop) |
 |--------:|--------|-------------|
-| Story #6 | Task is pending review | If Review is not passed, task is moved to sprint 2 to be completed |
-| Story 7 | Estimation was wrong, needed more time | move to sprint 2 |
+| Story #6 | Task scope was greater than anticipated | Split |
+| Story #2 | Product Scope was too great on the previous task | Carry |
 
 ## Sprint Metrics 
-Planned points: 20  
-Completed points: 10  
-Actual velocity: 10
+Planned points: 19  
+Completed points: 6
+Actual velocity: 6
